@@ -97,7 +97,6 @@ System.out.println(dummyMessage);
 This gives metadata. Use:
 System.out.println(dummyMessage.getText());
 To print actual message.
-________________________________________
 
 
 ## 📜 License
