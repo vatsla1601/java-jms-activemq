@@ -1,8 +1,4 @@
-Here is your **cleaned-up and formatted** version of the viva questions and answers, optimized for your GitHub `README.md`. I've removed unnecessary lines, kept all your original words, and ensured clear sectioning, spacing, and markdown formatting for better readability:
-
----
-
-# 📘 ActiveMQ Java JMS Project – Viva Q\&A Summary
+# 📘 ActiveMQ Java JMS Project – Q\&A Summary
 
 ---
 
